@@ -15,7 +15,7 @@ Descrição: Este artigo técnico foi criado com ajuda do ChatGPT, a iteração 
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - download de imagem gratuita
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) 
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - para formafação de banners e layouts.
 
 ## 📄 Prompts 
 
