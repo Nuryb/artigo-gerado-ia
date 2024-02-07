@@ -7,7 +7,7 @@
 ____
 ## Titulo do projeto
 <p align="left">
- Titulo: “Aproveitando o Potencial da função GENERATE_SERIES para Dados Dinâmicos”
+“Aproveitando o Potencial da função GENERATE_SERIES para Dados Dinâmicos”
 <p>
 
 
