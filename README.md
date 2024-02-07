@@ -7,8 +7,8 @@
 ____
 ## Titulo do projeto
 <p align="left">
-“Aproveitando o Potencial da função GENERATE_SERIES para Dados Dinâmicos”
+<h3 “Aproveitando o Potencial da função GENERATE_SERIES para Dados Dinâmicos” </h>
 <p>
 Descrição: Este artigo técnico foi criado com ajuda do ChatGPT, a iteração com o ChatGPT atraves de prompts organizados facilitou a criação do conteúdo. 
----
+___
 
