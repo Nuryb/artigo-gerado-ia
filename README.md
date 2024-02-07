@@ -5,10 +5,8 @@
 <h2 align="center">Projeto: Artigo técnico gerado por I.A</h>
 
 ____
-## Titulo do projeto
-<p align="left">
- “Aproveitando o Potencial da função GENERATE_SERIES para Dados Dinâmicos” 
-<p>
+## Titulo do projeto : “Aproveitando o Potencial da função GENERATE_SERIES para Dados Dinâmicos” 
+
 Descrição: Este artigo técnico foi criado com ajuda do ChatGPT, a iteração com o ChatGPT atraves de prompts facilitou a criação do conteúdo. 
 
 ## 💻 Tecnologias utilizadas no projeto
