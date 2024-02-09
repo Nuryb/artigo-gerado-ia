@@ -7,7 +7,7 @@
 ____
 ## Titulo do projeto : “Aproveitando o Potencial da função GENERATE_SERIES para Dados Dinâmicos” 
 
-Descrição: Este artigo técnico foi criado com ajuda do ChatGPT, a iteração com o ChatGPT atraves de prompts facilitou a criação do conteúdo. 
+Descrição: Este artigo técnico foi realizado com ajuda do ChatGPT, a iteração com o ChatGPT atraves de prompts facilitou a criação do conteúdo. 
 
 ## 💻 Tecnologias utilizadas no projeto
 
